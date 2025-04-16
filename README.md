@@ -86,3 +86,19 @@ Foram cadastradas 2 pessoas.
 A média de idade do grupo é 31.0 anos.
 Mulheres cadastradas: Ana.
 As pessoas com idade acima da média são: Lucas com 34 anos.
+
+
+
+Name: Ana
+Gender: F
+Age: 28
+Do you want to continue? [Y/N] Y
+Name: Lucas
+Gender: M
+Age: 34
+Do you want to continue? [Y/N] N
+
+2 people were registered.
+The average age of the group is 31.0 years.
+Registered women: Ana.
+People above average age: Lucas (34 years).
